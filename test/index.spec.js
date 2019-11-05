@@ -1,0 +1,1 @@
+import cardTest from './Card/card.spec'
